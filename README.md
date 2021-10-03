@@ -44,6 +44,8 @@ A/B Testing:
 
 
  ## ChangeLog
+ ### 0.0.5
+ - Updated: android minimum sdk version, lowered to 18.
  ### 0.0.4
  - First launch of ByteBrew SDK availible for Android Mobile Developers
 
