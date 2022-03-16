@@ -50,7 +50,7 @@ A/B Testing:
  ### 0.0.6.1
  - Update to ByteBrew Android SDK
  - Changes:
-    - SDK change for Android with Google ADID Policy Compliance Update.
+    - SDK change for Android with Google Policy Compliance Update.
 
  ### 0.0.6
  - Update to ByteBrew Android SDK
