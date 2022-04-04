@@ -47,6 +47,11 @@ A/B Testing:
 
 
  ## ChangeLog
+ ### 0.0.7
+ - Update to ByteBrew Android SDK
+ - Additions:
+    - Update with Purchase Validation Callback.
+ 
  ### 0.0.6.1
  - Update to ByteBrew Android SDK
  - Changes:
