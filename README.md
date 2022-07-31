@@ -47,6 +47,12 @@ A/B Testing:
 
 
  ## ChangeLog
+ ### 0.0.9
+ - Update to ByteBrew Android SDK
+ - Updates:
+    - Support for compatibility with Flutter + React-Native.
+    - Other minor updates.
+
  ### 0.0.8
  - Update to ByteBrew Android SDK
  - Updates:
