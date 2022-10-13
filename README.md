@@ -47,6 +47,12 @@ A/B Testing:
 
 
  ## ChangeLog
+  ### 0.1.0
+ - Update to ByteBrew Android SDK
+ - Updates:
+    - Addition of IsByteBrewInitialized method.
+    - minor updates.
+ 
  ### 0.0.9
  - Update to ByteBrew Android SDK
  - Updates:
