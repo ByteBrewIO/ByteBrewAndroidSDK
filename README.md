@@ -47,7 +47,12 @@ A/B Testing:
 
 
  ## ChangeLog
-  ### 0.1.0
+### 0.1.1
+ - Update to ByteBrew Android SDK
+ - Updates:
+    - Update for new A/B Testing features and fixes.
+
+### 0.1.0
  - Update to ByteBrew Android SDK
  - Updates:
     - Addition of IsByteBrewInitialized method.
