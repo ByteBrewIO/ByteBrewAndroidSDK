@@ -50,7 +50,7 @@ A/B Testing:
 ### 0.1.2
  - Update to ByteBrew Android SDK
  - Updates:
-    - Minor android updates
+    - Minor android updates.
     - Update for prioritizing delivery of test push notifications.
     - Other minor push notification updates.
 
