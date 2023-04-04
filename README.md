@@ -47,6 +47,12 @@ A/B Testing:
 
 
  ## ChangeLog
+### 0.1.3
+ - Update to ByteBrew Android SDK
+ - Updates:
+    - Minor Android updates.
+    - Updates for Google Ads Attribution.
+
 ### 0.1.2
  - Update to ByteBrew Android SDK
  - Updates:
