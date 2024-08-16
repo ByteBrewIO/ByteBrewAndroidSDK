@@ -47,6 +47,11 @@ A/B Testing:
 
 
  ## ChangeLog
+### 0.1.5
+ - Update to ByteBrew Android SDK
+ - Updates:
+    - Minor Android API updates.
+ 
 ### 0.1.4
  - Update to ByteBrew Android SDK
  - Updates:
