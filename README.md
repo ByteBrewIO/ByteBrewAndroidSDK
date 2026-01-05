@@ -8,13 +8,12 @@ Real-Time Analytics:
  - Engagement Analytics: Automatically start tracking your game’s key performance indicators such as new user events, DAU, session length, playtime, and retention reporting
  - Custom Filtering: Breakdown and segment your players using custom filters such as; device type, geography, build version, and date ranges
  
+ByteBrew Ads:
+ - AI-Layered network built to scale your portfolio with performance targeted growth.
+ - Meet Ctrl, ByteBrew's AI behavioral targeting engine powering ByteBrew Ads; delivering smarter acquistion decisions in real-time to maximize your marketing performance.
+ 
  Push Notifications:
   - Send Cross-Platform Cloud Notifications to your players around the globe with ByteBrew's Push Notifications.
-
-Player Progression:
- - Game level statistics tracking to breakdown level wins, fails, scores and more.
- - Progression funneling system: Monitor your user's progression and set up custom event funnels to visually track how your player's progression through your games. 
- -Locate key churn points in your games by tracking how long players take to advance through events.
 
 Monetization:
  - Start tracking your game’s in-app purchases with real value using our Receipt Validation tool to turn your game into a business.  
@@ -41,12 +40,12 @@ A/B Testing:
  Create your ByteBrew account to access the [dashboard](https://dashboard.bytebrew.io/register), or if you do have an account login [here](https://dashboard.bytebrew.io/login).
 
 
-
- ## Community
- Join our Community of Developers on Discord [here](https://discord.gg/sAp4f3tJte)! 
-
-
  ## ChangeLog
+### 0.1.6
+ - Update to ByteBrew Android SDK
+ - Updates:
+    - ByteBrew Ads Update
+    
 ### 0.1.5
  - Update to ByteBrew Android SDK
  - Updates:
